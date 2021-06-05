@@ -1,4 +1,8 @@
 # Hello
+```powershell
+Get-Command -Name Clear-Host
+```
+
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 Rendered emoji
