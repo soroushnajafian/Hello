@@ -20,3 +20,7 @@ Headers
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
+Inline code
+
+I think you should use an
+`<numpy>` element here instead.
