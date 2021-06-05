@@ -2,7 +2,7 @@
 ```powershell
 Get-Command -Name Clear-Host
 ```
-
+<pre class="r"><code>install.packages(c(&quot;insight&quot;, &quot;bayestestR&quot;, &quot;parameters&quot;))</code></pre>
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 Rendered emoji
