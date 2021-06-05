@@ -1,4 +1,10 @@
 
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
 <figure class="highlight">
   <pre>
     <code class="language-shell" data-lang="shell">
