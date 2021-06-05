@@ -1,4 +1,7 @@
 # Hello
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+Rendered emoji
 My first github pages
 (like ~~this~~) 
 ```
