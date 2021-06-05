@@ -7,6 +7,12 @@
   </pre>
 </figure>
 
+<pre>
+  <code class="language-shell" data-lang="shell">
+    <span class="nv">$ </span>pip install jupyter
+  </code>
+</pre>
+
 # Hello
 ```powershell
 Get-Command -Name Clear-Host
