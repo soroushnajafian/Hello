@@ -24,3 +24,10 @@ Inline code
 
 I think you should use an
 `<numpy>` element here instead.
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
